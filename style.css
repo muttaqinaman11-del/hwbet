@@ -1,0 +1,25 @@
+body {
+    font-size: 20px;
+}
+
+input {
+    padding: 10px;
+    border: 2px solid blue;
+}
+
+input:focus {
+    outline: none;
+}
+
+button {
+    font-size: 18px;
+    padding: 5px 10px;
+    color: white;
+    background-color: green;
+    border: none;
+    cursor: pointer;
+}
+
+button:active {
+    background-color: rgb(83, 83, 224);
+}
